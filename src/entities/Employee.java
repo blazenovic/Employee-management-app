@@ -83,7 +83,7 @@ public class Employee implements java.io.Serializable {
 
     @Override
     public String toString() {
-        return "Employee Id: " + employeeId + ", name: " + name + ", age: " + age + ", adress: " + address + ", salary: " + salary;
+        return "Employee Id: " + employeeId + ", name: " + name + ", age: " + age + ", address: " + address + ", salary: " + salary;
     }
 
 }
