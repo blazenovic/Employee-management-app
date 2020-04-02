@@ -45,7 +45,7 @@ public class EmployeeTableModel extends AbstractTableModel {
 
     @Override
     public String getColumnName(int column) {
-        String[] columnNames = new String[]{"Id", "Name", "Age", "Addrss", "Salary"};
+        String[] columnNames = new String[]{"Id", "Name", "Age", "Address", "Salary"};
         return columnNames[column];
     }
 
