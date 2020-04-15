@@ -2,10 +2,10 @@
 
 <img src="images/Splash.png" width="400">
 <img src="images/Select.png" width="350">
-<img src="images/Show.png" width="500">
-<img src="images/Enter.png" width="500">
-<img src="images/Change.png" width="500">
-<img src="images/Delete.png" width="500">
+<img src="images/Show.png" width="350">
+<img src="images/Enter.png" width="350">
+<img src="images/Change.png" width="350">
+<img src="images/Delete.png" width="350">
 
 
 
