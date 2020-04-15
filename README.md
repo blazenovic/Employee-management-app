@@ -1,11 +1,11 @@
 # Employee-management-app
 
 <img src="images/Splash.png" width="500">
-<img src="images/Select.png">
-<img src="images/Show.png">
-<img src="images/Enter.png">
-<img src="images/Change.png">
-<img src="images/Delete.png">
+<img src="images/Select.png" width="500">
+<img src="images/Show.png" width="500">
+<img src="images/Enter.png" width="500">
+<img src="images/Change.png" width="500">
+<img src="images/Delete.png" width="500">
 
 
 
