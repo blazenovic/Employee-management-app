@@ -1,13 +1,12 @@
 # Employee-management-app
 
+
 <img src="images/Splash.png" width="400">
 <img src="images/Select.png" width="350">
 <img src="images/Show.png" width="350">
 <img src="images/Enter.png" width="250">
 <img src="images/Change.png" width="350">
 <img src="images/Delete.png" width="350">
-
-
 
 Java based GUI desktop application for:
 * listing all employees from database, 
