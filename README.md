@@ -1,6 +1,6 @@
 # Employee-management-app
 
-<img src="images/Splash.png" width="1000">
+<img src="images/Splash.png" width="500">
 <img src="images/Select.png">
 <img src="images/Show.png">
 <img src="images/Enter.png">
