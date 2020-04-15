@@ -8,6 +8,7 @@ Java based GUI desktop application for:
 
 Aplication cosnsists of 6 frames: 
 1.	Splash frame containing splash screen displays loading of application
+
 <img src="images/Splash.png" width="400">
 2.	Select frame lets user chose between 4 options. 
 <img src="images/Select.png" width="350">
