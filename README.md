@@ -1,5 +1,8 @@
 # Employee-management-app
 
+<img src="images/Splash.png">
+
+
 
 Java based GUI desktop application for:
 * listing all employees from database, 
